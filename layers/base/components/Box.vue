@@ -1,10 +1,12 @@
 <script setup lang="ts">
-
+const props = defineProps<{
+  title: string
+}>()
 </script>
 
 <template>
   <div>
-    Button2
+    Box component from ui layer {{ props.title }}
   </div>
 </template>
 
