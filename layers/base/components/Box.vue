@@ -6,7 +6,7 @@ const props = defineProps<{
 
 <template>
   <div>
-    Box component from ui layer {{ props.title }}
+    Box component from base layer {{ props.title }}
   </div>
 </template>
 
