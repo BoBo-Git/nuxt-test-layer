@@ -4,10 +4,9 @@
 
 <template>
   <div>
-    Button
+    Button component from ui layer
   </div>
 </template>
 
 <style scoped>
-
 </style>
